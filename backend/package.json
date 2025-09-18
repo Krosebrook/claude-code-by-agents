@@ -54,11 +54,11 @@
     "prepublishOnly": "npm run build && npm run test"
   },
   "dependencies": {
-    "@anthropic-ai/claude-code": "1.0.51",
+    "@anthropic-ai/claude-code": "1.0.105",
     "@anthropic-ai/sdk": "^0.57.0",
     "@hono/node-server": "^1.0.0",
     "commander": "^14.0.0",
-    "hono": "^4.0.0"
+    "hono": "^4.9.7"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
